@@ -8,8 +8,8 @@
 
 <!-- One-liner about who you are. Keep it short and genuine. -->
 
-I'm a [year]-year CS student at [University], passionate about
-[your interest, e.g. web development / AI / mobile apps].
+I'm a Third-year CS student at Angeles University Foundation, passionate about
+Web development / AI / mobile apps.
 
 ---
 
@@ -19,10 +19,10 @@ I'm a [year]-year CS student at [University], passionate about
 
 ## About me
 
-- 🎓 Studying [Degree] at [University]
-- 💻 Currently learning [language or framework]
-- 🌱 Building my first [type of project]
-- ⚡ Fun fact: [something interesting about you]
+- 🎓 Studying Computer Science at Angeles University Foundation
+- 💻 Currently learning idk
+- 🌱 Building my first million
+- ⚡ Fun fact: i love women
 
 ---
 
