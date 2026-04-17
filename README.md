@@ -4,9 +4,10 @@
      Replace everything inside [ ] with your own info.
      ============================================================ -->
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Mike Pogi 👋
 
 <!-- One-liner about who you are. Keep it short and genuine. -->
+
 I'm a [year]-year CS student at [University], passionate about
 [your interest, e.g. web development / AI / mobile apps].
 
@@ -15,6 +16,7 @@ I'm a [year]-year CS student at [University], passionate about
 <!-- ABOUT SECTION
      Write 2–3 sentences. What do you study? What do you love building?
      You can also mention hobbies — it makes your profile feel human. -->
+
 ## About me
 
 - 🎓 Studying [Degree] at [University]
@@ -27,6 +29,7 @@ I'm a [year]-year CS student at [University], passionate about
 <!-- SKILLS SECTION
      List languages/tools you actually know or are learning.
      Use shields.io badges or just plain text — both look great. -->
+
 ## Skills
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -42,17 +45,19 @@ I'm a [year]-year CS student at [University], passionate about
 <!-- PROJECTS SECTION
      Highlight 1–3 projects you're proud of.
      Link to the repo or a live demo if you have one. -->
+
 ## Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
+| Project                                              | Description              | Tech          |
+| ---------------------------------------------------- | ------------------------ | ------------- |
 | [Project Name](https://github.com/yourusername/repo) | What it does in one line | Python, Flask |
-| [Project Name](https://github.com/yourusername/repo) | What it does in one line | HTML, JS |
+| [Project Name](https://github.com/yourusername/repo) | What it does in one line | HTML, JS      |
 
 ---
 
 <!-- CONTACT SECTION
      Only include links you actually want people to use. -->
+
 ## Let's connect
 
 - 📧 [your.email@example.com](mailto:your.email@example.com)
