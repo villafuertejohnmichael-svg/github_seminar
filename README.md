@@ -7,10 +7,12 @@
 <!-- HEADER BANNER
      Optional: generate a custom banner at https://capsule-render.vercel.app
      Then replace the URL below with your generated image link. -->
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=[Your+Name]&fontColor=fff&fontSize=48)
 
 <!-- INTRO — Write this like you're talking to a new friend. -->
-### Hey there! I'm [Your Name] 👋
+
+### Hey there! I'm John Michael Villafuerte 👋
 
 > [A short quote or motto that represents you — or just delete this line]
 
@@ -22,6 +24,7 @@ I love turning ideas into code, especially when it involves [your interest].
 <!-- CURRENTLY SECTION
      What are you working on or learning right now?
      This shows visitors you're actively growing.             -->
+
 ## What I'm up to
 
 - 🔨 Building → [current project or idea]
@@ -33,6 +36,7 @@ I love turning ideas into code, especially when it involves [your interest].
 
 <!-- SKILLS — Organized by category so it's easy to read.
      Remove any row that doesn't apply to you yet.          -->
+
 ## My toolbox
 
 **Languages**
@@ -53,6 +57,7 @@ I love turning ideas into code, especially when it involves [your interest].
 <!-- FEATURED PROJECT
      Pick ONE project you're proudest of and tell its story.
      What problem did it solve? What did you learn?          -->
+
 ## Featured project
 
 ### [Project Name] — [one-line description]
@@ -65,6 +70,7 @@ Who is it for? What was the hardest part to build?]
 ---
 
 <!-- FUN STUFF — Optional section. Shows personality! -->
+
 ## A little more about me
 
 ```
@@ -80,6 +86,7 @@ const [yourName] = {
 ---
 
 <!-- CONNECT — Keep only platforms you check regularly. -->
+
 ## Find me online
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
